@@ -4,9 +4,9 @@ public class PersonTest {
     public static void main(String[] args) {
         // 1
         Person p1 = new Person();
-        Person p2 = new Person("AAA", 18);
-        Person p3 = new Person("AAA", 18);
-        Person p4 = new Person("BBB", 20);
+        Person p2 = new Person("AAA", 66);
+        Person p3 = new Person("AAA", 66);
+        Person p4 = new Person("BBB", 222);
 
         // System.out.println("p1: " + p1);
         // System.out.println("p2: " + p2);
